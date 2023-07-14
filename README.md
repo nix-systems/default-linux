@@ -1,4 +1,4 @@
-# default systems
+# default Linux systems
 
 See <https://github.com/nix-systems/nix-systems> for the full explanation of
 the pattern and usage.
